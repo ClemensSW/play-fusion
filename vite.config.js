@@ -7,4 +7,6 @@ export default defineConfig({
   server: {
     port: 2508,
   },
+
+  base: "/play-fusion/",
 });
